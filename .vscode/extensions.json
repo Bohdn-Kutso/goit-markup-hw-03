@@ -3,6 +3,7 @@
     "esbenp.prettier-vscode",
     "ecmel.vscode-html-css",
     "kubosho.ecsstractor",
-    "ritwickdey.liveserver"
+    "ritwickdey.liveserver",
+    "github.copilot"
   ]
 }
